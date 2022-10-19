@@ -106,4 +106,10 @@ main{
     margin-left: 105px;
     margin-top: 5px;
   }
+  .final{
+    margin-top: 10px;
+  }
+  .final--lost{
+    margin-top: 10px;
+  }
 }
